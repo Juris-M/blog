@@ -786,15 +786,15 @@ li.inserted {
 }
 
 .container {
-    padding-left: 0px;
-    padding-right: 0px;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 
 #source, #errors {
     margin-bottom: 0px;
 }
 
-#errors {
+#errors, img {
     overflow: auto;
 }
 
