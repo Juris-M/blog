@@ -9,6 +9,10 @@
 }
 */
 
+h2 {
+    clear: right;
+}
+
 .post-content {
     font-size: 150%;
 }

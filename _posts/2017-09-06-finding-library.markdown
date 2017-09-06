@@ -7,12 +7,10 @@ categories: jurism announcement
 
 ## The Issue
 
-![Finding Jurism](images/search-for-jurism.png)
-
 Some users have found that Juris-M 5.0 did not locate an existing
 Zotero or Juris-M data directory automatically when installed, resulting
 in an empty library. When this happens, the data has not been lost;
-it is only necessary to point the client and the location of the original
+it is only necessary to point the client at the location of the original
 library.
 
 Do be sure that you have a good backup before making the adjustment. (Backups
@@ -21,8 +19,12 @@ of all your personal data, today is a good day to start.)
 
 ## Finding the Old Library
 
-The first step is to use the search facility of your computer to find
-the original data directory. If you installed Juris-M for the first time
+Use the search facility of your computer to find
+the original data directory. 
+
+![Finding Jurism](images/search-for-jurism.png)
+
+If you installed Juris-M for the first time
 on a Zotero system, the file to look for is named `zotero.sqlite`.  If
 you have upgraded from an earlier version of Juris-M, look for a file
 named `jurism.sqlite`. A Windows search is shown in the illustration.
@@ -32,9 +34,11 @@ purpose.)
 
 ## Changing the Data Directory
 
+In the Juris-M 5.0 client, change your library's data directory.
+
 ![Select a Data Directory](images/select-data-directory.png)
 
-In the Juris-M 5.0 client, visit `Preferences` ➜ `Advanced`, and
+Visit `Preferences` ➜ `Advanced`, and
 select the `Files and Folders` tab. Under "Data Directory Location"
 select "Custom," and navigate the popup file manager to the directory
 identified in the previous step.
