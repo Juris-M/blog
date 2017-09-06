@@ -19,8 +19,9 @@ h2 {
 
 .post-content img {
     float: right;
-    margin-left: 10px;
+    margin: 10px 0 10px 10px ;
     border: #cccccc solid 1px;
+    max-width: 100%;
 }
 
 html,body
@@ -794,9 +795,11 @@ li.inserted {
     margin-bottom: 0px;
 }
 
-#errors, img {
+#errors {
     overflow: auto;
 }
+
+
 
 .form-control-feedback {
     position:absolute;
