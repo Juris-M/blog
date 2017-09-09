@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Word processor support"
+title:  "Word processor back-story"
 date:   2017-09-07
 categories: jurism announcement
 ---
@@ -62,10 +62,11 @@ requirement disabled by default*.
 
 This brings us back to the original issue. Since the native Zotero
 word processor integration plugins can communicate quite happily with
-Juris-M, and since the signing requirement no long applies in the 5.0
+Juris-M, and since the signing requirement no longer applies in the 5.0
 Standalone clients, there is no longer a reason to maintain separate
 copies of these plugins. I can use the native plugin code, inserting
-only a tiny tweak to extend compatibility to Juris-M.
+only a tiny tweak to extend compatibility to Juris-M. Less code to
+maintain, improved stability, what's not to love?
 
 That is why, if you examine the list of Add-on extensions in Juris-M
 5.0, you will see a bright shiny Zotero logo next to the integration
