@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Word processor back-story"
-date:   2017-09-07
+date:   2017-09-08
 categories: jurism announcement
 ---
 

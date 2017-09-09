@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Abbreviations: changes in version 5.0.17.2"
-date:   2017-09-07
+date:   2017-09-09
 categories: jurism announcement
 ---
 
