@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Fixes: search and abbreviations (5.0.17.3)
-date:   2017-09-06
+date:   2017-09-11
 categories: jurism announcement
 ---
 
